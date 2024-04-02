@@ -55,4 +55,7 @@ assert pos < len1 -1;
 
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/75d94538-4630-4037-ab96-ab5d462b30f1)
 
-Для этого. в поле arguments ввести -ea
+Для этого. в поле arguments для проекта и для VM ввести -ea:
+
+![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/c068953b-4033-4ec7-b061-6be4e74e0de9)
+
