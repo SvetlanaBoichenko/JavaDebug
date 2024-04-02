@@ -7,7 +7,8 @@
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/2c13b008-1f02-4886-985f-ef338d857833)
 
 При подведении мыши открыввается ниспадающее меню, где можно ввести условия останова прораммы в данной точке, отключить и включить опять точку останова.
-![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/84f84be0-e834-46e7-8e32-1d9e322ed18
+![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/26a052fd-eee9-4800-a370-393fccd939be)
+
 
 Работа с точками останова возможна только в режиме отладки
 Войти в редим отладки можно нажав Shift-F9
