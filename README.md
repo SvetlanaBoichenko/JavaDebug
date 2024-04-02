@@ -36,7 +36,7 @@ assert pos < len1 -1;
 
 Позиция оказалась больше чем длина строки, минус 1.
 
-Результат исключение  AssertionError 
+Результатом будет выход в исключение  AssertionError.
 
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/d1eef0c2-c6d2-4f3e-b397-c64126ac927a)
 
@@ -49,13 +49,13 @@ assert pos < len1 -1;
 Результат:  Длина подстроки = 104
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/5d310f02-7eb8-42e7-9906-a9b56cec4fa2)
 
-Необходимо отметить, что по умолчанию в пакете IntelliJ выключена обработка assert. 
+Необходимо отметить, что по умолчанию в пакете IntelliJ выключена обработка assert по умолчанию. 
 
-Включить  ее можно в меню EditConfiguration.
+Включить ее можно в меню EditConfiguration.
 
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/75d94538-4630-4037-ab96-ab5d462b30f1)
 
-Для этого. в поле arguments для проекта и для VM ввести -ea:
+Для этого в поле arguments для проекта и для VM нужно ввести -ea:
 
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/c068953b-4033-4ec7-b061-6be4e74e0de9)
 
