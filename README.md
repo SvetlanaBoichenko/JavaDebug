@@ -24,5 +24,10 @@
 ## Инструкция утверждения assert
 Assert верный результат предыдущего действия. Если результат верен (принимает логическое значение true), то программа двигается дальше.
 Если же ожидание оказываетс яложным, то программа завершится исключением типа AssertionError.
+
+В приведенном ниже примере 
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/d1eef0c2-c6d2-4f3e-b397-c64126ac927a)
+
+![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/5d310f02-7eb8-42e7-9906-a9b56cec4fa2)
+
 
