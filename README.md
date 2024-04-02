@@ -47,7 +47,8 @@ assert pos < len1 -1;
 
  assert pos + len2 <= len1 : "Длина подстроки = " + (pos + len2);
  
-Результат:  Длина подстроки = 104
+Результат:  Длина подстроки = 104, что и привело к выходу в исключение.
+
 ![image](https://github.com/SvetlanaBoichenko/JavaDebug/assets/160069590/5d310f02-7eb8-42e7-9906-a9b56cec4fa2)
 
 Необходимо отметить, что по умолчанию в пакете IntelliJ выключена обработка assert по умолчанию. 
